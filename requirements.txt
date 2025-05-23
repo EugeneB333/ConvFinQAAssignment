@@ -1,0 +1,154 @@
+# Basic python packages
+numpy==1.26.4
+scipy==1.13.0
+matplotlib==3.8.4
+seaborn==0.13.2
+pandas==2.2.1
+jupyter==1.0.0
+# plotly==4.14.3
+
+# ML packages
+# scikit-learn==1.2.2
+# scikit-image==0.19.2
+# scikit-surprise==1.1.2
+# imbalanced-learn==0.9.1
+# opencv-python==4.5.5.64
+# imgaug==0.4.0
+# mlxtend==0.20.0
+# xgboost==1.7.1
+# tpot==0.11.7
+# tensorflow==2.12.0
+# tensorflow_datasets==4.5.2
+# tensorflow_hub
+# tensorflow-model==0.1.1
+# tensorflow-object-detection-api==0.1.1
+# visualkeras==0.0.2
+# yellowbrick==1.5
+graphviz==0.20
+# combo==0.1.3
+# pyod==1.0.1
+# pmdarima==1.8.5
+# prophet==1.0.1
+# implicit==0.6.1
+# turicreate==6.4.1
+# pulp==2.8.0
+
+# NLP
+# nltk
+# spacy==3.3.0
+# python-Levenshtein==0.12.2
+# fuzzywuzzy==0.18.0
+# jellyfish==0.9.0
+# yargy==0.16.0
+# pymorphy2==0.9.1
+tiktoken==0.9.0
+
+# LLM
+langchain==0.2
+langchain-openai==0.3.17
+langchain-chroma==0.2.4
+langchain-community==0.2
+ollama==0.2
+
+# OpenAI
+openai==1.79.0
+
+# Statistics
+# statsmodels==0.13.5
+# pmdarima==2.0.2
+# arch==5.3.1
+
+# Aux packages
+xlrd==2.0.1
+openpyxl==3.1.2
+# xlsxwriter==3.1.2
+# odfpy==1.4.1
+tqdm==4.66.3
+# h5py==3.7.0
+# Pillow==9.1.1
+# six==1.16.0
+# missingno==0.5.1
+# python-dotenv==1.0.1
+# zeep==4.2.1
+trio==0.25
+python-multipart==0.0.9
+# orjson==3.10
+ijson==3.4.0
+
+# Scraping
+ beautifulsoup4==4.12.0
+# selenium==4.3.0
+# requests==2.28.1
+# lxml==4.6.2
+# undetected_chromedriver==3.1.5.post4
+# webdriver-manager==3.8.3
+# selenium-stealth==1.0.6
+# similarweb_scraper==0.0.3
+# proxycrawl==3.2.1
+# iso3166==2.1.1
+# urllib3>=1.26,<2.0
+
+# PDF Scraping
+# PyPDF2==3.0.1
+# tabula-py==2.7.0
+# pdfplumber==0.10.1
+# camelot-py==0.11.0
+# ghostscript==0.7
+unstructured[csv,docx,pptx,xlsx]==0.14
+
+# Flask
+# Flask==2.2.5
+# flask-cors==3.0.10
+# flask-session>=0.3.2,<0.5
+# gunicorn==20.1.0
+# Werkzeug==2.2.2
+
+# FastAPI
+fastapi==0.111
+hypercorn==0.17
+
+# DB
+duckdb==1.2.2
+chromadb==0.5
+
+# SQL
+# psycopg2==2.9.6
+# psycopg2-binary==2.9.6
+# sqlalchemy==2.0.10
+# Flask-SQLAlchemy==3.0.3
+
+# Latex
+# pylatex==1.4.1
+
+# Pytest
+pytest==7.4.2
+pytest-cov==6.1.1
+# ipytest
+
+# Telegram
+# python-telegram-bot==20.3
+# pyTelegramBotAPI==4.12.0
+# requests~=2.31.0
+
+# Encryption
+# cryptography==42.0.5
+
+# Google
+# pytrends==4.8.0
+# googlemaps==4.10.0
+
+# Geolocation and Weather
+# pgeocode==0.3.0
+# geocoder==1.38.1
+# basemap==1.3.6
+# uszipcode==1.0.1
+# geopy==2.2.0
+# meteostat==1.6.5
+# holidays==0.17
+# python-forecastio==1.4.0
+
+# Flights
+# amadeus==7.0.0
+
+# EBAY
+# ebaysdk==2.2.0
